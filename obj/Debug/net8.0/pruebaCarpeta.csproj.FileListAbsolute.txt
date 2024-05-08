@@ -1,0 +1,14 @@
+/home/et12alumno/pruebaCarpeta/bin/Debug/net8.0/pruebaCarpeta
+/home/et12alumno/pruebaCarpeta/bin/Debug/net8.0/pruebaCarpeta.deps.json
+/home/et12alumno/pruebaCarpeta/bin/Debug/net8.0/pruebaCarpeta.runtimeconfig.json
+/home/et12alumno/pruebaCarpeta/bin/Debug/net8.0/pruebaCarpeta.dll
+/home/et12alumno/pruebaCarpeta/bin/Debug/net8.0/pruebaCarpeta.pdb
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.AssemblyInfoInputs.cache
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.AssemblyInfo.cs
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.csproj.CoreCompileInputs.cache
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.dll
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/refint/pruebaCarpeta.dll
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.pdb
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/pruebaCarpeta.genruntimeconfig.cache
+/home/et12alumno/pruebaCarpeta/obj/Debug/net8.0/ref/pruebaCarpeta.dll

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace lib{
+    class miclase{
+        static void Main(){
+
+            Console.WriteLine("hola");
+        }
+    }
+}
